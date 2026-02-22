@@ -1,6 +1,8 @@
-package org.example.Lesson1
+package org.example
 
 fun main(){
-    println("Тестовое решение Урока 1 задачи 1")
-    println("Other text for new pull request")
+
+    val numberOfOrders: Int  = 75
+    val thanksForThePurchase: String = "Благодарим Вас за совершенную покупку! Было приятно иметь с Вами дело!!!"
+
 }
