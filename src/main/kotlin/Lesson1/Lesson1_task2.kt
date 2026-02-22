@@ -1,5 +1,0 @@
-package org.example.Lesson1
-
-fun main(){
-    println("Тестовое решение Урока 1 задачи 2")
-}
