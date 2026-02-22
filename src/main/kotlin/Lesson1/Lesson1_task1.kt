@@ -1,6 +1,12 @@
-package org.example.Lesson1
+package org.example
 
 fun main(){
-    println("Тестовое решение Урока 1 задачи 1")
-    println("Other text for new pull request")
+
+    // ДЗ. Урок 1, задание 1. Тема "Переменные"
+    // Идентификаторы получились длинные, т.к. пока нетзвестны размер их области видимости
+    // и места их применения в программе!
+
+    val numberOfOrders: Int  = 75
+    val thanksForThePurchase: String = "Благодарим Вас за совершенную покупку! Было приятно иметь с Вами дело!!!"
+
 }
